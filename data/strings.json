@@ -2,7 +2,7 @@
   "name": "StringsLandingPage",
   "version": "0.0.1",
   "title": "Estaleiro - Elasticidade &amp; Resiliência do início ao fim",
-  "pages": [
+  "pages":
     {"home":
         {
             "section_1_title_call": "Construa mais rápido",
@@ -66,5 +66,4 @@
             "section_5_tech_hogzilla_description":"Sistema de detecção de intrusão baseado em análises de anomalias."
         }
     }
-  ]
 }
